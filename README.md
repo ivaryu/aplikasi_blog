@@ -1,2 +1,2 @@
 # aplikasi_blog
-Aplikasi Blog ini memfasilitasi pengguna untuk mendapatkan informasi terkait topik AI menggunakan data dari hasil kontribusi User melalui fitur yang pada Aplikasi blog.
+Aplikasi Blog ini memfasilitasi pengguna untuk mendapatkan informasi terkait topik AI menggunakan data dari hasil kontribusi User melalui fitur yang pada Aplikasi blog.. Fitur komunitas memfasilitasi berbagi informasi Inovasi Digital, Ruang pemberian informasi seputar AI,  Informasi mengenai Pelatihan dan Workshop terkait Teknologi Digital dan AI, serta Mempromosikan Inovasi dalam Inovasi Digital.
